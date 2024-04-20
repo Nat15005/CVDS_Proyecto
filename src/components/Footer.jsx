@@ -18,7 +18,7 @@ const Footer = () => {
             href="#"
             className="text-2xl font-bold relative p-1 bg-footer text-white"
           >
-            Swipe Your Style<span className="text-primary text-5xl">.</span>{" "}
+            Swipe Ur Style<span className="text-primary text-5xl">.</span>{" "}
           </a>
         </div>
         {/* Social media */}

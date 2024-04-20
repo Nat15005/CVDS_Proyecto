@@ -21,7 +21,7 @@ const Reviews = () => {
           <RiDoubleQuotesL />
         </span>
         <p className="max-w-2xl text-allign text-gray-500">
-          En [Nombre de la Empresa], somos un equipo apasionado y diverso de desarrolladores, diseñadores y entusiastas de la moda unidos por una visión común: simplificar y mejorar tu experiencia diaria de vestirte. Con una combinación única de habilidades técnicas y un profundo conocimiento de las tendencias de la moda, hemos unido fuerzas para crear una aplicación revolucionaria que transformará la forma en que te relacionas con tu armario.
+          En <span className="text-primary"><strong>DevOpsElite</strong></span>, somos un equipo apasionado y diverso de desarrolladores, diseñadores y entusiastas de la moda unidos por una visión común: simplificar y mejorar tu experiencia diaria de vestirte. Con una combinación única de habilidades técnicas y un profundo conocimiento de las tendencias de la moda, hemos unido fuerzas para crear una aplicación revolucionaria que transformará la forma en que te relacionas con tu armario.
         </p>
         <span className="text-5xl text-primary">
           <RiDoubleQuotesR />

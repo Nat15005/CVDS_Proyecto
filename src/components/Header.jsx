@@ -12,7 +12,7 @@ const Header = () => {
     <header className="flex items-center justify-between xl:justify-start w-full py-4 px-8 h-[10vh] z-50">
       <div className="xl:w-1/6 text-center -mt-4">
         <a href="#" className="text-2xl font-bold relative p-1 bg-white">
-          Swipe Your Style<span className="text-primary text-5xl">.</span>{" "}
+          Swipe Ur Style<span className="text-primary text-5xl">.</span>{" "}
           <RiCheckboxBlankCircleFill className="absolute -left-3 -bottom-3 text-primary -z-10" />
         </a>
       </div>
@@ -24,7 +24,7 @@ const Header = () => {
         <a href="#home" className="">
           Home
         </a>
-        <a href="#aboutUs" className="">
+        <a href="#clients" className="">
           About Us
         </a>
         <a href="#services" className="">
